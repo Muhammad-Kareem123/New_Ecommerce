@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ht\\source\\repos\\New_Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FFC30-52B6-437E-BB8F-09E9606AFD31}|New_Ecommerce.csproj|c:\\users\\ht\\source\\repos\\new_ecommerce\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02FFC30-52B6-437E-BB8F-09E9606AFD31}|New_Ecommerce.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FFC30-52B6-437E-BB8F-09E9606AFD31}|New_Ecommerce.csproj|c:\\users\\ht\\source\\repos\\new_ecommerce\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D02FFC30-52B6-437E-BB8F-09E9606AFD31}|New_Ecommerce.csproj|solutionrelative:views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FFC30-52B6-437E-BB8F-09E9606AFD31}|New_Ecommerce.csproj|c:\\users\\ht\\source\\repos\\new_ecommerce\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02FFC30-52B6-437E-BB8F-09E9606AFD31}|New_Ecommerce.csproj|solutionrelative:models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/HJK/True/SqlTable/dbo.products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FFC30-52B6-437E-BB8F-09E9606AFD31}|New_Ecommerce.csproj|c:\\users\\ht\\source\\repos\\new_ecommerce\\models\\viewmodel\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02FFC30-52B6-437E-BB8F-09E9606AFD31}|New_Ecommerce.csproj|solutionrelative:models\\viewmodel\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/HJK/True/SqlTable/dbo.orderItems.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FFC30-52B6-437E-BB8F-09E9606AFD31}|New_Ecommerce.csproj|c:\\users\\ht\\source\\repos\\new_ecommerce\\models\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02FFC30-52B6-437E-BB8F-09E9606AFD31}|New_Ecommerce.csproj|solutionrelative:models\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FFC30-52B6-437E-BB8F-09E9606AFD31}|New_Ecommerce.csproj|c:\\users\\ht\\source\\repos\\new_ecommerce\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D02FFC30-52B6-437E-BB8F-09E9606AFD31}|New_Ecommerce.csproj|solutionrelative:views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FFC30-52B6-437E-BB8F-09E9606AFD31}|New_Ecommerce.csproj|c:\\users\\ht\\source\\repos\\new_ecommerce\\models\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02FFC30-52B6-437E-BB8F-09E9606AFD31}|New_Ecommerce.csproj|solutionrelative:models\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FFC30-52B6-437E-BB8F-09E9606AFD31}|New_Ecommerce.csproj|c:\\users\\ht\\source\\repos\\new_ecommerce\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02FFC30-52B6-437E-BB8F-09E9606AFD31}|New_Ecommerce.csproj|solutionrelative:models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/HJK/True/SqlTable/dbo.customers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FFC30-52B6-437E-BB8F-09E9606AFD31}|New_Ecommerce.csproj|c:\\users\\ht\\source\\repos\\new_ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02FFC30-52B6-437E-BB8F-09E9606AFD31}|New_Ecommerce.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FFC30-52B6-437E-BB8F-09E9606AFD31}|New_Ecommerce.csproj|c:\\users\\ht\\source\\repos\\new_ecommerce\\models\\entities\\myapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02FFC30-52B6-437E-BB8F-09E9606AFD31}|New_Ecommerce.csproj|solutionrelative:models\\entities\\myapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 38,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.products [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/HJK/True/SqlTable/dbo.products.sql",
+              "ToolTip": "dbo.products [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-29T19:18:37.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ht\\source\\repos\\New_Ecommerce\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ht\\source\\repos\\New_Ecommerce\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "Views\\Order\\Create.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T19:13:19.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ht\\source\\repos\\New_Ecommerce\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\ht\\source\\repos\\New_Ecommerce\\Controllers\\OrderController.cs*",
+              "RelativeToolTip": "Controllers\\OrderController.cs*",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T19:07:07.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.orderItems [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/HJK/True/SqlTable/dbo.orderItems.sql",
+              "ToolTip": "dbo.orderItems [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-29T19:05:15.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ht\\source\\repos\\New_Ecommerce\\Models\\ViewModel\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModel\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\ht\\source\\repos\\New_Ecommerce\\Models\\ViewModel\\OrderViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModel\\OrderViewModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T18:54:08.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ht\\source\\repos\\New_Ecommerce\\Models\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\ht\\source\\repos\\New_Ecommerce\\Models\\Entities\\Product.cs",
+              "RelativeToolTip": "Models\\Entities\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T18:01:16.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.customers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/HJK/True/SqlTable/dbo.customers.sql",
+              "ToolTip": "dbo.customers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-29T18:51:34.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ht\\source\\repos\\New_Ecommerce\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ht\\source\\repos\\New_Ecommerce\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T18:49:29.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MyApp.cs",
+              "DocumentMoniker": "C:\\Users\\ht\\source\\repos\\New_Ecommerce\\Models\\Entities\\MyApp.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\MyApp.cs",
+              "ToolTip": "C:\\Users\\ht\\source\\repos\\New_Ecommerce\\Models\\Entities\\MyApp.cs",
+              "RelativeToolTip": "Models\\Entities\\MyApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T18:10:53.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\ht\\source\\repos\\New_Ecommerce\\Models\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\ht\\source\\repos\\New_Ecommerce\\Models\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Models\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T18:06:14.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ht\\source\\repos\\New_Ecommerce\\Models\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\ht\\source\\repos\\New_Ecommerce\\Models\\Entities\\Order.cs",
+              "RelativeToolTip": "Models\\Entities\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T18:03:36.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ht\\source\\repos\\New_Ecommerce\\Models\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\ht\\source\\repos\\New_Ecommerce\\Models\\Entities\\Customer.cs",
+              "RelativeToolTip": "Models\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T18:02:41.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ht\\source\\repos\\New_Ecommerce\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ht\\source\\repos\\New_Ecommerce\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvw0AAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T18:00:27.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
